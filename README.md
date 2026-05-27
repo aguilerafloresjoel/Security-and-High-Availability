@@ -7,3 +7,4 @@ Collection of labs, projects and documentation related to cybersecurity, hardeni
 ---
 
 - NIDS/NIPS with Suricata
+- Enterprise Prototype Scenario with Docker Compose (dmz-proxies-vpn-internal_net) 
